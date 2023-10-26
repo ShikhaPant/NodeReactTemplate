@@ -14,6 +14,6 @@
   "dependencies": {
     "@shopify/app": "^3.49.5",
     "@shopify/cli": "^3.49.5",
-    "@shopify/web-pixels-extension": "^0.4.20"
+    "@shopify/web-pixels-extension": "^0.4.22"
   }
 }
